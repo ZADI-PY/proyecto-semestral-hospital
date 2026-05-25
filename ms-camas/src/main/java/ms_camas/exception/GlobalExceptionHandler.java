@@ -1,4 +1,4 @@
-package ms_paciente.exception;
+package ms_camas.exception;
 
 import java.util.HashMap;
 import java.util.Map;

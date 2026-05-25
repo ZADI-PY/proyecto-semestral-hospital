@@ -1,4 +1,4 @@
-package ms_paciente.exception;
+package ms_facturacion.exception;
 
 import java.util.HashMap;
 import java.util.Map;

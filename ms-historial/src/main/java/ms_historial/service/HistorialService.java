@@ -19,6 +19,4 @@ public class HistorialService {
         return historialRepository.findByRunPacienteOrderByFechaAtencionDesc(runPaciente);
     }
 }
-    }
-}
 

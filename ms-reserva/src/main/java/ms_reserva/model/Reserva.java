@@ -31,5 +31,5 @@ public class Reserva {
     private Date fechaHora;
 
     @Column(nullable = false, length = 20)
-    private String estado; // Ejs: "PENDIENTE", "CONFIRMADA", "CANCELADA"
+    private String estado; 
 }
